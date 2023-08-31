@@ -1,2 +1,3 @@
 Welocome to Git training
 I am learning Git in this session
+we learned git status
